@@ -1,0 +1,38 @@
+body{
+	font-family:sans-serif;
+	margin: 0;
+	border-style: groove;
+}
+#one{
+	background-color:gray;
+	color: white;
+	padding: 5px 500px 5px 10px;   
+}
+
+.three{
+	width:100%;
+	border-style: groove;border-left-style: none;border-top-style: none;
+	float: left;
+	clear: both;
+	
+
+}
+
+.ch{
+	
+	background-color:darkgray;
+	float: left;
+	clear: both;
+	padding: 20px 10px 20px 10px;
+	
+	
+}
+.dh{
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.bh{
+	display: inline-block;
+}
